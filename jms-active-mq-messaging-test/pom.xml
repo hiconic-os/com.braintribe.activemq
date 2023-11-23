@@ -46,7 +46,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         </dependency>
         <dependency>
             <groupId>com.braintribe.gm</groupId>
-            <artifactId>gm-messaging-api-test</artifactId>
+            <artifactId>gm-messaging-api-test-base</artifactId>
             <version>${V.com.braintribe.gm}</version>
         </dependency>
         <dependency>
